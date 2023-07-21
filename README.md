@@ -18,14 +18,13 @@
 
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
 
 To get started with My Awesome Project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/WhatIsThisVJ/ReactProject_Two.git`
+1. Clone the repository: `git clone `https://github.com/WhatIsThisVJ/cryptoapp`
 2. Install the dependencies: `npm install`
 3. Run the project: `npm start`
 
@@ -40,10 +39,6 @@ Contributions are welcome! Please follow these guidelines to contribute to My Aw
 5. Submit a pull request
 
 For major changes, please open an issue first to discuss the proposed changes.
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/WhatIsThisVJ/ReactProject_Two/blob/master/LICENSE).
 
 ## Contact
 
