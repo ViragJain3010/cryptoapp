@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Awesome Project</h1>
 
 <p align="center">
-  <img src="https://cryptoapp-logo-url" alt="Project Logo" />
+  <img src="https://cryptoapp-two-sandy.vercel.app/" alt="Project Logo" />
 </p>
 
 <p align="center">
