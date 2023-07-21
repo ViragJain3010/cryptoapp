@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to My Awesome Project</h1>
 
 <p align="center">
-  <img src="https://ReactProject_Two-logo-url" alt="Project Logo" />
+  <img src="https://cryptoapp-logo-url" alt="Project Logo" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/WhatIsThisVJ/ReactProject_Two">
-    <img src="https://img.shields.io/github/stars/WhatIsThisVJ/ReactProject_Two?style=social" alt="GitHub Stars" />
+  <a href="https://github.com/WhatIsThisVJ/cryptoapp">
+    <img src="https://img.shields.io/github/stars/WhatIsThisVJ/cryptoapp?style=social" alt="GitHub Stars" />
   </a>
 </p>
 
