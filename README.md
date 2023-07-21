@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Awesome Project</h1>
 
 <p align="center">
-  <img src="https://cryptoapp-two-sandy.vercel.app/" alt="Project Logo" />
+  <img src="https://cryptoapp-logo-url" alt="Project Logo" />
 </p>
 
 <p align="center">
@@ -13,7 +13,11 @@
 <p align="center">
   Welcome to My Awesome Project! This project was created with the help of React and Chakra UI and designed to be scalable, efficient, user-friendly and RESPONSIVE!
 </p>
-
+<p align="center" >
+<a href="cryptoapp-two-sandy.vercel.app/">
+    Click here to visit the website
+</a>
+</p>
 ## Table of Contents
 
 - [Installation](#installation)
