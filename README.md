@@ -14,7 +14,7 @@
   Welcome to My Awesome Project! This project was created with the help of React and Chakra UI and designed to be scalable, efficient, user-friendly and RESPONSIVE!
 </p>
 <h3 align="center" >
-<a href="cryptoapp-two-sandy.vercel.app/" target="_blank">
+<a href="https://cryptoapp-two-sandy.vercel.app/" target="_blank">
     Click here to visit the website
 </a>
 </h3>
